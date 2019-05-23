@@ -1,4 +1,4 @@
-# Rye - A small Matlab library
+# A small Matlab library
 
 Rye is a small library set of functions and routines that aid in
 data analysis.
